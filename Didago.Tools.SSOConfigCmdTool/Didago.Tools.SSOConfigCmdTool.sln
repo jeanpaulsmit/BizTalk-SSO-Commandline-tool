@@ -4,6 +4,15 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Didago.Tools.SSOConfigCmdTool", "Didago.Tools.SSOConfigCmdTool\Didago.Tools.SSOConfigCmdTool.csproj", "{F761F9E5-9CC8-401F-BC19-2D8C3F1C4C7F}"
 EndProject
 Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs07
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Didago.Tools.SSOConfigCmdTool\\Didago.Tools.SSOConfigCmdTool.csproj
+		SccProjectName1 = Didago.Tools.SSOConfigCmdTool
+		SccLocalPath1 = Didago.Tools.SSOConfigCmdTool
+	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
 		Release|x86 = Release|x86
